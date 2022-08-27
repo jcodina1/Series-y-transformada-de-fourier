@@ -1,3 +1,6 @@
+disp=('Serie de Fourier')
+na=input('Introduce el número de armónicos: ')
+
 L=pi;
 fu=@(t) t;
 
